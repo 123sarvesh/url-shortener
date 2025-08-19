@@ -81,3 +81,14 @@
     </plugins>
   </build>
 </project>
+<repositories>
+    <repository>
+      <id>central</id>
+      <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+  </repositories>
+
+  <scm>
+    <connection>scm:git://github.com/example/url-shortener.git</connection>
+    <developerConnection>scm:git://github.com/example/url-shortener.git</developerConnection>
+    <url>
