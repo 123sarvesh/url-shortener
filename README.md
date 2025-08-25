@@ -1,4 +1,4 @@
-# Scalable URL Shortener
+# Scalable URL Shortener.
 
 Production-ready URL shortener service with **Spring Boot**, **PostgreSQL**, **Redis caching**, basic **rate limiting (Bucket4j)**, and **Docker Compose** for local dev. Clean architecture, tests, and a minimal API.
 
