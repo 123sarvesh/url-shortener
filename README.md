@@ -16,13 +16,6 @@ Spring Boot 3, Java 17, PostgreSQL, Redis, JPA/Hibernate, Bucket4j, Docker, JUni
 
 ## Quick Start (Local)
 ```bash
-# start databases
-docker compose up -d postgres redis
-
-# run app (requires Java 17 + Maven)
-./mvnw spring-boot:run || mvn spring-boot:run
-```
-
 App runs at http://localhost:8080
 
 ### Shorten a URL
